@@ -1,0 +1,13 @@
+Used IDE:
+			Visual Studio Code(PlatformIO)
+Framework:
+			Arduino
+Used Libraries:
+			Blynk by Volodymyr Shymanskyy
+			Adafruit BME280 Library by Adafruit
+Used Board:
+			firebeetle ESP32
+
+Main Code Under:
+			src/main.cpp
+
